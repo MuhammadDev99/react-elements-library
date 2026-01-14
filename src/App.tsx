@@ -99,13 +99,6 @@ function App() {
                 </label>
             </div>
             <div>
-                {/* <div>
-                <p>Write name</p>
-                <div className={clsx(styles.floatingGroup)}>
-                    <input className={styles.floatingGroupInput} placeholder=" " type="text" />
-                    <label className={styles.floatingGroupLabel}>Name</label>
-                </div>
-            </div> */}
                 <p>Write a message</p>
                 <div className={clsx(styles.floatingGroup)}>
                     <textarea className={styles.floatingGroupInput} placeholder=" "></textarea>
